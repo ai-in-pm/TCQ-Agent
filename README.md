@@ -1,6 +1,6 @@
 # Task-Circuit Quantization (TCQ) Demonstration
 
-This application demonstrates the Task-Circuit Quantization technique described in the paper "Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression" by Hanqi Xiao, Yi-Lin Sung, Elias Stengel-Eskin, and Mohit Bansal.
+This application demonstrates the Task-Circuit Quantization technique described in the paper "Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression" by Hanqi Xiao, Yi-Lin Sung, Elias Stengel-Eskin, and Mohit Bansal. To read the full article, visit https://arxiv.org/pdf/2504.07389.
 
 ![TCQ-Interface Gen-Purpose](https://github.com/user-attachments/assets/1f87b39d-4dce-4022-a9a5-578aed4cf870)
 ![TCQ-Interface Text-to-SQL](https://github.com/user-attachments/assets/cbbdcb5e-217c-453d-ba79-f45e73a213c7)
