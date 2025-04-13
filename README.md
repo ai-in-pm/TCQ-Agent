@@ -2,7 +2,11 @@
 
 This application demonstrates the Task-Circuit Quantization technique described in the paper "Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression" by Hanqi Xiao, Yi-Lin Sung, Elias Stengel-Eskin, and Mohit Bansal.
 
-## Overview
+#![TCQ-Interface Gen-Purpose](https://github.com/user-attachments/assets/1f87b39d-4dce-4022-a9a5-578aed4cf870)
+![TCQ-Interface Text-to-SQL](https://github.com/user-attachments/assets/cbbdcb5e-217c-453d-ba79-f45e73a213c7)
+![TCQ-Interface Math Reasoning](https://github.com/user-attachments/assets/59211a6c-1e39-440e-a67f-3619d4949c70)
+
+# Overview
 
 Task-Circuit Quantization (TCQ) is a novel mixed-precision post-training quantization approach that identifies and preserves critical weights in a neural network while quantizing less important ones to lower bit-widths. This demonstration uses two AI agents to explain and showcase the TCQ process:
 
